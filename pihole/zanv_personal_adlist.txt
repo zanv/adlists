@@ -1,0 +1,85 @@
+
+## NordVPN(?)
+applytics.napps-1.com
+
+
+## Amazon / Alexa:
+device-metrics-us.amazon.com
+kindle-time.amazon.com
+spectrum.s3.amazonaws.com
+ntp-g7g.amazon.com
+vsp-alexa-eu.amazon.com
+vsp-alexa-na.amazon.com
+## Echo dot uses SSL Port 443 for transfering voice information, so PiHole does not recognize this!
+## Remember that Pi-hole is a DNS server, not a proxy. It does neither care nor know about which ports a user uses to connect to somewhere.
+
+
+## AWS
+# Generally domains / URLS that contain Experiment* are used for tracking.
+redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+
+
+## Google
+# This domain is non malicious. Required for Google Photos Face Grouping
+peoplestackwebexperiments-pa.clients6.google.com
+
+
+## xiaomi
+api.ad.xiaomi.com
+api.admob.xiaomi.com
+api.d.xiaomi.com
+a.stat.xiaomi.com
+tracking.miui.com
+cdn.ad.xiaomi.com
+data.mistat.xiaomi.com
+e.ad.xiaomi.com
+globalapi.ad.xiaomi.com
+new.api.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+ssp.ad.xiaomi.com
+test.ad.xiaomi.com
+test.e.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+ccc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+adv.sec.miui.com
+geofence.sys.miui.com
+abtest.mistat.xiaomi.com
+logupdate.avlyun.sec.miui.com
+mazu.sec.miui.com
+feedback.miui.com
+data.sec.miui.com
+data.mistat.intl.xiaomi.com
+
+
+
+## roku
+pihole -b tyler.logs.roku.com
+giga.logs.roku.com
+cooper.logs.roku.com
+
+## twitch
+pihole -b api.mixpanel.com
+spade.twitch.com
+pubads.g.doubleclick.net sb.scorecardresearch.com
+
+
+## waze
+pihole -b adsassets.waze.com
+
+
+## pandora tv
+pihole -b ad.pandora.tv ads.pandora.tv.net stats.pandora.com
+adserver.pandora.com
+
+
+## MGID is a global advertising platform
+wsp.mgid.com
+
+
+## Outros
+event-tracker.mediaownerscloud.com
+api.wbd-sdp.io
+
