@@ -63,15 +63,18 @@ cooper.logs.roku.com
 ## twitch
 pihole -b api.mixpanel.com
 spade.twitch.com
-pubads.g.doubleclick.net sb.scorecardresearch.com
+pubads.g.doubleclick.net
+sb.scorecardresearch.com
 
 
 ## waze
-pihole -b adsassets.waze.com
+adsassets.waze.com
 
 
 ## pandora tv
-pihole -b ad.pandora.tv ads.pandora.tv.net stats.pandora.com
+ad.pandora.tv
+ads.pandora.tv.net
+stats.pandora.com
 adserver.pandora.com
 
 
