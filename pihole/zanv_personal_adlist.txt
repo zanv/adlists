@@ -56,12 +56,12 @@ data.mistat.intl.xiaomi.com
 
 
 ## roku
-pihole -b tyler.logs.roku.com
+tyler.logs.roku.com
 giga.logs.roku.com
 cooper.logs.roku.com
 
 ## twitch
-pihole -b api.mixpanel.com
+api.mixpanel.com
 spade.twitch.com
 pubads.g.doubleclick.net
 sb.scorecardresearch.com
