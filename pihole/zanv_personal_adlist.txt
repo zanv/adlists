@@ -54,6 +54,12 @@ data.sec.miui.com
 data.mistat.intl.xiaomi.com
 
 
+## Brave browser
+static1.brave.com               ## proxy requests to Google
+brave-core-ext.s3.brave.com     ## fetches 5 extensions and installs them
+variations.brave.com            ## Brave’s privacy-respecting alternative implementation of Google’s Finch service
+laptop-updates.brave.com        ## information on Brave’s referral program, sites reported as broken, and non-identifying usage statistics
+
 
 ## roku
 tyler.logs.roku.com
