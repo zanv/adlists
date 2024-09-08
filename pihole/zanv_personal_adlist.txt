@@ -8,8 +8,27 @@ device-metrics-us.amazon.com
 kindle-time.amazon.com
 spectrum.s3.amazonaws.com
 ntp-g7g.amazon.com
+vsp-alexa-fe.amazon.com
 vsp-alexa-eu.amazon.com
 vsp-alexa-na.amazon.com
+avs-alexa-4-fe.amazon.com   ## Makes Amazon Echo stop working
+avs-alexa-4-eu.amazon.com   ## Makes Amazon Echo stop working
+avs-alexa-4-na.amazon.com   ## Makes Amazon Echo stop working
+avs-alexa-5-fe.amazon.com   ## Makes Amazon Echo stop working
+avs-alexa-5-eu.amazon.com   ## Makes Amazon Echo stop working
+avs-alexa-5-na.amazon.com   ## Makes Amazon Echo stop working
+avs-alexa-14-fe.amazon.com   ## Makes Amazon Echo stop working
+avs-alexa-14-eu.amazon.com   ## Makes Amazon Echo stop working
+avs-alexa-14-na.amazon.com   ## Makes Amazon Echo stop working
+alexa.fe.gateway.devices.a2z.com
+alexa.eu.gateway.devices.a2z.com
+alexa.na.gateway.devices.a2z.com
+default.fe.gateway.devices.a2z.com
+default.eu.gateway.devices.a2z.com
+default.na.gateway.devices.a2z.com
+alexa-14.fe.gateway.devices.a2z.com
+alexa-14.eu.gateway.devices.a2z.com
+alexa-14.na.gateway.devices.a2z.com
 ## Echo dot uses SSL Port 443 for transfering voice information, so PiHole does not recognize this!
 ## Remember that Pi-hole is a DNS server, not a proxy. It does neither care nor know about which ports a user uses to connect to somewhere.
 
