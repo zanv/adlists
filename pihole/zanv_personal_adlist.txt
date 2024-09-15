@@ -41,6 +41,8 @@ redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 ## Google
 # This domain is non malicious. Required for Google Photos Face Grouping
 peoplestackwebexperiments-pa.clients6.google.com
+edgedl.me.gvt1.com      ## https://www.google.com/chrome/
+nearbysharing-pa.googleapis.com
 
 
 ## xiaomi
@@ -110,4 +112,6 @@ wsp.mgid.com
 ## Outros
 event-tracker.mediaownerscloud.com
 api.wbd-sdp.io
+c43.1ka.com     ## XVideos
+
 
