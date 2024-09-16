@@ -13,7 +13,7 @@ auth-ctv.digitaluk.co.uk
 
 ## Netflix
 ##occ-0-299-300.1.nflxso.net    ## prevents the download of some netflix thumbnails
-cdn-0.nflximg.com
+##cdn-0.nflximg.com             ## prevents the download of some netflix thumbnails
 
 
 ## Vidaa Hub TV
@@ -32,8 +32,8 @@ locationhistory-pa.googleapis.com
 footprints-pa.googleapis.com
 taskassist-pa.googleapis.com
 peoplestack-pa.googleapis.com
-userlocation.googleapis.com     ## Prevents the ability to share your location if you want to
-geller-pa.googleapis.com        ## Needed for Google Assistant
+userlocation.googleapis.com             ## Prevents the ability to share your location if you want to
+geller-pa.googleapis.com                ## Needed for Google Assistant
 firebaseinstallations.googleapis.com    ## Breaks some Firebase based apps, needed for Googles Cloud messaging
 semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
 
