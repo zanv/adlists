@@ -1,15 +1,10 @@
 occ-0-299-300.1.nflxso.net
-occ-0-299-300.1.nflxso.net
-occ-0-299-300.1.nflxso.net
-occ-0-299-300.1.nflxso.net
 
 
 epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
 sponsor.ajay.app
 
 
-cdn-0.nflximg.com
-cdn-0.nflximg.com
 cdn-0.nflximg.com
 
 
@@ -26,6 +21,6 @@ meta.api.stv.tv
 auth-ctv.digitaluk.co.uk
 
 
-
+jm-msg-global.aliexpress.com
 
 
