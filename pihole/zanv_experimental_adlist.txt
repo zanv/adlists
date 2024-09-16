@@ -1,11 +1,5 @@
-occ-0-299-300.1.nflxso.net
-
-
 epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
 sponsor.ajay.app
-
-
-cdn-0.nflximg.com
 
 
 c4096256.ipg.web.cddbp.net
@@ -15,6 +9,11 @@ fvp.ait.s4c.cymru
 fvp-ait-api.ss7.tv
 meta.api.stv.tv
 auth-ctv.digitaluk.co.uk
+
+
+## Netflix
+##occ-0-299-300.1.nflxso.net    ## prevents the download of some netflix thumbnails
+cdn-0.nflximg.com
 
 
 ## Vidaa Hub TV
