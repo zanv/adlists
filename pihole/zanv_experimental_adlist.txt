@@ -11,16 +11,31 @@ cdn-0.nflximg.com
 c4096256.ipg.web.cddbp.net
 
 
-partner.vidaahub.com
-iot-voice-eu.vidaahub.com
-
-
 fvp.ait.s4c.cymru
 fvp-ait-api.ss7.tv
 meta.api.stv.tv
 auth-ctv.digitaluk.co.uk
 
 
+## Vidaa Hub TV
+partner.vidaahub.com
+iot-voice-eu.vidaahub.com
+
+
+## Aliexpress/Alibaba
 jm-msg-global.aliexpress.com
+us-ummt.alibaba.com
+iclientgw.alipay.com
+
+
+## Google
+locationhistory-pa.googleapis.com
+footprints-pa.googleapis.com
+taskassist-pa.googleapis.com
+peoplestack-pa.googleapis.com
+userlocation.googleapis.com     ## Prevents the ability to share your location if you want to
+geller-pa.googleapis.com        ## Needed for Google Assistant
+firebaseinstallations.googleapis.com    ## Breaks some Firebase based apps, needed for Googles Cloud messaging
+semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
 
 
