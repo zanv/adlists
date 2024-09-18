@@ -37,4 +37,18 @@ geller-pa.googleapis.com                ## Needed for Google Assistant
 firebaseinstallations.googleapis.com    ## Breaks some Firebase based apps, needed for Googles Cloud messaging
 semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
 
+## Domínios acessados pelo futemax.plus:
+filters.adtidy.org
+lajjmqeshj.com
+curbengh.github.io
+malware-filter.pages.dev
+cdn.statically.io
+secure.fanboy.co.nz
+ublockorigin.github.io
+lajjmqeshj.com
+filters.adtidy.org
+cdnimagesplus.embedmax.com
+applytics.zwyr157wwiu6eior.com
+
+
 
