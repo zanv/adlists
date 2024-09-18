@@ -38,17 +38,44 @@ firebaseinstallations.googleapis.com    ## Breaks some Firebase based apps, need
 semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
 
 ## Domínios acessados pelo futemax.plus:
-filters.adtidy.org
+#filters.adtidy.org
 lajjmqeshj.com
-curbengh.github.io
-malware-filter.pages.dev
-cdn.statically.io
-secure.fanboy.co.nz
-ublockorigin.github.io
+#curbengh.github.io
+#malware-filter.pages.dev
+#cdn.statically.io
+#secure.fanboy.co.nz
+#ublockorigin.github.io
 lajjmqeshj.com
-filters.adtidy.org
 cdnimagesplus.embedmax.com
 applytics.zwyr157wwiu6eior.com
+
+#ente.dev
+conn-service-eu-03.allawnos.com
+icosa-service-eu.allawnos.com
+
+#urlhaus.abuse.ch
+#phishing.army
+#pgl.yoyo.org
+#hostfiles.frogeye.fr
+#osint.digitalside.it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
