@@ -50,32 +50,13 @@ cdnimagesplus.embedmax.com
 applytics.zwyr157wwiu6eior.com
 
 #ente.dev
-conn-service-eu-03.allawnos.com
-icosa-service-eu.allawnos.com
-
+conn-service-eu-03.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
+conn-service-us-05.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
+icosa-service-eu.allawnos.com       ## OPPO servers: supposedly accesses every time a new app is installed
 #urlhaus.abuse.ch
 #phishing.army
 #pgl.yoyo.org
 #hostfiles.frogeye.fr
 #osint.digitalside.it
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
