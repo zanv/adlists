@@ -37,6 +37,7 @@ geller-pa.googleapis.com                ## Needed for Google Assistant
 firebaseinstallations.googleapis.com    ## Breaks some Firebase based apps, needed for Googles Cloud messaging
 semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
 
+
 ## Domínios acessados pelo futemax.plus:
 #filters.adtidy.org
 lajjmqeshj.com
@@ -47,7 +48,10 @@ lajjmqeshj.com
 #ublockorigin.github.io
 lajjmqeshj.com
 cdnimagesplus.embedmax.com
+applytics.boi9osyg1uwtyafn.com
+applytics.x9fnzrtl4x8pynsf.com
 applytics.zwyr157wwiu6eior.com
+
 
 #ente.dev
 conn-service-eu-03.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
