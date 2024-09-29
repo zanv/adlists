@@ -48,9 +48,13 @@ lajjmqeshj.com
 #ublockorigin.github.io
 lajjmqeshj.com
 cdnimagesplus.embedmax.com
+
+
+## Domínios utilizados pela NordVPN:
+## "These requests are sent to well known domains in order to check if the network is restricted or not. It helps to determine certain issues in countries with heavy internet censorship or networks where VPN services are being blocked."
 applytics.boi9osyg1uwtyafn.com
 applytics.x9fnzrtl4x8pynsf.com
-applytics.zwyr157wwiu6eior.com
+applytics.zwyr157wwiu6eior.com      ## Nord has a reason to remain silent on this one. This is a part of their workaround in countries with heavy Internet restrictions. Providing a detailed explanation of how it works would not only put them at a competitive disadvantage, it would put them at risk of getting blocked
 
 
 #ente.dev
