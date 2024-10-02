@@ -68,4 +68,18 @@ icosa-service-eu.allawnos.com       ## OPPO servers: supposedly accesses every t
 #hostfiles.frogeye.fr
 #osint.digitalside.it
 
-	
+
+
+## WPS Office (previously KSOffice for the international market) checks and other annoyances during initialization
+jspluginstore.wps.cn
+pcfg.wps.cn
+shuc-other.ksord.com
+dw-online.ksosoft.com
+plus.wps.cn
+qing.wps.cn
+int.dpool.sina.com.cn
+qingcenter.wps.cn
+learning.u.wpscdn.cn
+
+
+
