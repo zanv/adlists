@@ -80,6 +80,15 @@ qing.wps.cn
 int.dpool.sina.com.cn
 qingcenter.wps.cn
 learning.u.wpscdn.cn
+# Added WPS Office domains after accessing the skin selection interface
+s1.vip.wpscdn.cn
+uf-api6.ksord.com
+ic.wps.cn
+docer-ks3.wpscdn.cn
+skin.docer.wps.cn
+recom.docer.wps.cn
+cnt.wps.cn
+
 
 
 
