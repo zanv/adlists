@@ -73,22 +73,24 @@ icosa-service-eu.allawnos.com       ## OPPO servers: supposedly accesses every t
 ## WPS Office (previously KSOffice for the international market) checks and other annoyances during initialization
 jspluginstore.wps.cn
 pcfg.wps.cn
-shuc-other.ksord.com
-dw-online.ksosoft.com
 plus.wps.cn
 qing.wps.cn
-int.dpool.sina.com.cn
 qingcenter.wps.cn
+dw-online.ksosoft.com
+int.dpool.sina.com.cn
 learning.u.wpscdn.cn
-# Added WPS Office domains after accessing the skin selection interface
-s1.vip.wpscdn.cn
-uf-api6.ksord.com
+shuc-other.ksord.com
+# Added WPS Office domains after accessing the Skin Center selection interface
 ic.wps.cn
-docer-ks3.wpscdn.cn
 skin.docer.wps.cn
 recom.docer.wps.cn
 cnt.wps.cn
-
-
+s1.vip.wpscdn.cn
+docer-ks3.wpscdn.cn
+uf-api6.ksord.com
++ WPS Office domains, accessed by the settings page
+tj.psvr.wps.cn
+ds.cache.wpscdn.com
+bl.client.cache.wpscdn.cn
 
 
