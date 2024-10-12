@@ -88,9 +88,17 @@ cnt.wps.cn
 s1.vip.wpscdn.cn
 docer-ks3.wpscdn.cn
 uf-api6.ksord.com
-+ WPS Office domains, accessed by the settings page
+# More WPS Office domains, accessed by the settings page
 tj.psvr.wps.cn
-ds.cache.wpscdn.com
-bl.client.cache.wpscdn.cn
+ds.cache.wpscdn.com         ## Check if breaks something
+bl.client.cache.wpscdn.cn   ## Check if breaks something
+
+
+## Baidu and Baidu related
+baidu.com
+www.baidu.com
+sina.com.cn
+www.sina.com.cn
+
 
 
