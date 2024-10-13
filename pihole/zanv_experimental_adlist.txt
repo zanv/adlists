@@ -58,10 +58,28 @@ applytics.zwyr157wwiu6eior.com      ## Nord has a reason to remain silent on thi
 
 
 #ente.dev
+## EU servers
+conn-service-eu-01.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
+conn-service-eu-02.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
 conn-service-eu-03.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
+conn-service-eu-04.allawnos.com
+conn-service-eu-05.allawnos.com
+conn-service-eu-06.allawnos.com
+conn-service-eu-07.allawnos.com
+conn-service-eu-08.allawnos.com
+conn-service-eu-09.allawnos.com
+## US servers
+conn-service-us-01.allawnos.com
+conn-service-us-02.allawnos.com
+conn-service-us-03.allawnos.com
 conn-service-us-04.allawnos.com
 conn-service-us-05.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
+conn-service-us-06.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
+conn-service-us-07.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
+conn-service-us-08.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
+conn-service-us-09.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
 icosa-service-eu.allawnos.com       ## OPPO servers: supposedly accesses every time a new app is installed
+icosa-service-us.allawnos.com       ## OPPO servers: supposedly accesses every time a new app is installed
 #urlhaus.abuse.ch
 #phishing.army
 #pgl.yoyo.org
