@@ -110,6 +110,8 @@ uf-api6.ksord.com
 tj.psvr.wps.cn
 ds.cache.wpscdn.com         ## Check if breaks something
 bl.client.cache.wpscdn.cn   ## Check if breaks something
+docer.wps.cn
+
 
 
 ## Baidu and Baidu related
