@@ -38,6 +38,11 @@ firebaseinstallations.googleapis.com    ## Breaks some Firebase based apps, need
 semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
 
 
+## Xiaomi
+us.galleryapi.micloud.xiaomi.net
+uk.galleryapi.micloud.xiaomi.net
+
+
 ## Domínios acessados pelo futemax.plus:
 #filters.adtidy.org
 lajjmqeshj.com
@@ -119,6 +124,5 @@ baidu.com
 www.baidu.com
 sina.com.cn
 www.sina.com.cn
-
 
 
