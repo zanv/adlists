@@ -41,6 +41,17 @@ semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
 ## Xiaomi
 us.galleryapi.micloud.xiaomi.net
 uk.galleryapi.micloud.xiaomi.net
+eu.galleryapi.micloud.xiaomi.net
+in.galleryapi.micloud.xiaomi.net
+g.galleryapi.micloud.xiaomi.net
+in.tv.global.mi.com
+i.mi.com
+cn.app.chat.xiaomi.net
+thm.market.intl.xiaomi.com
+dlg.io.mi.com
+ots.io.mi.com
+ot.io.mi.com
+ott.io.mi.com
 
 
 ## Domínios acessados pelo futemax.plus:
