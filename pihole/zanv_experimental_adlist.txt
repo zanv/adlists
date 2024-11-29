@@ -137,3 +137,23 @@ sina.com.cn
 www.sina.com.cn
 
 
+## Block dresslily (chinese online fashion retailer - Shenzhen, China)
+## SammyDress and Rosegal, which share the same website registration from Beijing, China
+sammydressclothing.com
+www.sammydressclothing.com
+rosegal.com
+www.rosegal.com
+dresslily.com
+www.dresslily.com
+review.drlcdn.com
+cart.dresslily.com
+login.dresslily.com
+order.dresslily.com
+user.dresslily.com
+gloimg.drlcdn.com
+uidesign.drlcdn.com
+des.drlcdn.com
+fr.dresslily.com
+css.drlcdn.com
+
+
