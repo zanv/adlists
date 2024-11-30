@@ -145,7 +145,6 @@ rosegal.com
 www.rosegal.com
 dresslily.com
 www.dresslily.com
-review.drlcdn.com
 cart.dresslily.com
 login.dresslily.com
 order.dresslily.com
@@ -155,5 +154,11 @@ uidesign.drlcdn.com
 des.drlcdn.com
 fr.dresslily.com
 css.drlcdn.com
+review.drlcdn.com
+
+
+## Hisense TV
+vidaa-base-auth-eu.vidaahub.com
+policy-jrnl-eu.vidaahub.com
 
 
