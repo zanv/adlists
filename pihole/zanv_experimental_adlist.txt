@@ -103,7 +103,6 @@ icosa-service-us.allawnos.com       ## OPPO servers: supposedly accesses every t
 #osint.digitalside.it
 
 
-
 ## WPS Office (previously KSOffice for the international market) checks and other annoyances during initialization
 jspluginstore.wps.cn
 pcfg.wps.cn
@@ -127,7 +126,6 @@ tj.psvr.wps.cn
 ds.cache.wpscdn.com         ## Check if breaks something
 bl.client.cache.wpscdn.cn   ## Check if breaks something
 docer.wps.cn
-
 
 
 ## Baidu and Baidu related
@@ -161,4 +159,8 @@ review.drlcdn.com
 vidaa-base-auth-eu.vidaahub.com
 policy-jrnl-eu.vidaahub.com
 
+
+## Playstation domains (trackers, telemetry, ads)
+telemetry-console.api.playstation.com
+www.telemetry-console.api.playstation.com
 
