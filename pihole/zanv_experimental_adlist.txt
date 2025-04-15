@@ -156,8 +156,10 @@ review.drlcdn.com
 
 
 ## Hisense TV
+vidaahub.com
 vidaa-base-auth-eu.vidaahub.com
 policy-jrnl-eu.vidaahub.com
+params-msg-eu.vidaahub.com
 
 
 ## Playstation domains (trackers, telemetry, ads)
