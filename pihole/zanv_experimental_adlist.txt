@@ -166,3 +166,7 @@ params-msg-eu.vidaahub.com
 telemetry-console.api.playstation.com
 www.telemetry-console.api.playstation.com
 
+
+## Server related to different spam providers
+o-uk-1.flwc.cc      ## The registrar has a high % of spammers and fraud sites
+
