@@ -174,9 +174,16 @@ params-msg-eu.vidaahub.com
 ## Playstation domains (trackers, telemetry, ads)
 telemetry-console.api.playstation.com
 www.telemetry-console.api.playstation.com
+smetrics.aem.playstation.com
+aem.playstation.com.ssl.d1.sc.omtrdc.net
 
 
 ## Server related to different spam providers
 o-uk-1.flwc.cc      ## The registrar has a high % of spammers and fraud sites
 
+
+## NVidia
+ota.nvidia.com                  ## automatic downloads
+ota-downloads.nvidia.com        ## automatic downloads
+ota-internal.nvidia.com         ## automatic downloads
 
