@@ -41,6 +41,10 @@ autodiscover.googleapis.com
 clientmetrics-pa.googleapis.com
 jnn-pa.googleapis.com                   ## consent management processor. Sites use it to store and manage user consents.
 ad-creatives-public.commondatastorage.googleapis.com
+nearbydevices-pa.googleapis.com
+chromesyncpasswords-pa.googleapis.com
+growth-pa.googleapis.com
+geomobileservices-pa.googleapis.com
 
 
 ## Xiaomi
