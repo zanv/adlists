@@ -27,7 +27,7 @@ us-ummt.alibaba.com
 iclientgw.alipay.com
 
 
-## Google
+## Google URLs
 locationhistory-pa.googleapis.com
 footprints-pa.googleapis.com
 taskassist-pa.googleapis.com
@@ -36,6 +36,11 @@ userlocation.googleapis.com             ## Prevents the ability to share your lo
 geller-pa.googleapis.com                ## Needed for Google Assistant
 firebaseinstallations.googleapis.com    ## Breaks some Firebase based apps, needed for Googles Cloud messaging
 semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
+androidtvchannels-pa.googleapis.com     ## Promoted Channels on Android TV
+autodiscover.googleapis.com
+clientmetrics-pa.googleapis.com
+jnn-pa.googleapis.com                   ## consent management processor. Sites use it to store and manage user consents.
+ad-creatives-public.commondatastorage.googleapis.com
 
 
 ## Xiaomi
@@ -169,4 +174,5 @@ www.telemetry-console.api.playstation.com
 
 ## Server related to different spam providers
 o-uk-1.flwc.cc      ## The registrar has a high % of spammers and fraud sites
+
 
