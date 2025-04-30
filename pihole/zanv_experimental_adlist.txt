@@ -174,8 +174,9 @@ params-msg-eu.vidaahub.com
 ## Playstation domains (trackers, telemetry, ads)
 telemetry-console.api.playstation.com
 www.telemetry-console.api.playstation.com
-smetrics.aem.playstation.com
-aem.playstation.com.ssl.d1.sc.omtrdc.net
+smetrics.aem.playstation.com                    ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
+aem.playstation.com.ssl.d1.sc.omtrdc.net        ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
+telemetry-schema-app.rnps.dl.playstation.net    ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
 
 
 ## Server related to different spam providers
