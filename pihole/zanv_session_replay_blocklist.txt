@@ -1,0 +1,21 @@
+## Lista criada com a intenção de bloquear Session Replay scripts/sites
+## exemplos de sites: FullStory, Hotjar, Yandex, and Smartlook
+
+mc.yandex.ru
+fullstory.com
+d2oh4tlt9mrke9.cloudfront.net
+ws.sessioncam.com
+userreplay.net
+script.hotjar.com
+insights.hotjar.com
+clicktale.net
+smartlook.com
+decibelinsight.net
+quantummetric.com
+inspectlet.com
+mouseflow.com
+logrocket.com
+salemove.com
+d10lpsik1i8c69.cloudfront.net
+vwo.com
+
