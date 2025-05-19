@@ -1,5 +1,5 @@
 ## [vz][250518] Lista criada com a intenção de bloquear Session Replay scripts/sites
-## exemplos de sites: FullStory, Hotjar, Yandex, and Smartlook
+## exemplos de sites: FullStory, Hotjar, Yandex, Smartlook, ForeSee, QuantumMetric
 
 mc.yandex.ru
 fullstory.com
@@ -26,4 +26,11 @@ suggest.sso.dzen.ru
 dzeninfra.ru
 avatars.dzeninfra.ru
 yastatic.net
+## --- continuação ---
+luckyorange.com
+sessioncam.com
+wp.com
+yandex.ru
+foresee.com
+
 
