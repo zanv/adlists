@@ -19,3 +19,11 @@ salemove.com
 d10lpsik1i8c69.cloudfront.net
 vwo.com
 
+## [vz][250519] talvez esses dominios devam ser movidos para a lista personal adlist
+sso.passport.yandex.ru
+dzen.ru
+suggest.sso.dzen.ru
+dzeninfra.ru
+avatars.dzeninfra.ru
+yastatic.net
+
