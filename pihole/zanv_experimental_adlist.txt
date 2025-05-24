@@ -189,3 +189,15 @@ ota.nvidia.com                  ## automatic downloads
 ota-downloads.nvidia.com        ## automatic downloads
 ota-internal.nvidia.com         ## automatic downloads
 
+
+## Vewd allows to watch content on additional movie and TV apps without having to download and install them
+## Services offered by Vewd include:
+##   Movies and TV: Tubi, AcornTV, YuppTV, and Plex.
+##   Sports: Red Bull TV, Motorcyclist, Nitro Circus, Play Sports TV
+##   Lifestyle: TED, Wired, Mashable, Bon Appetit
+##   Kids: Kids News, Kidoodle TV, Toon Goggles
+##   Music: Deezer TIDAL, Radioline
+##   News and Weather: CBS News, Newsy, CNBC, The Weather Network, Accuweather
+metrics.core.cloud.vewd.com
+
+
