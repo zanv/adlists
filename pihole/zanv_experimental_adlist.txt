@@ -81,6 +81,7 @@ applytics.boi9osyg1uwtyafn.com
 applytics.icpsuawn1zy5amys.com
 icpsuawn1zy5amys.com
 applytics.x9fnzrtl4x8pynsf.com
+zwyr157wwiu6eior.com
 applytics.zwyr157wwiu6eior.com      ## Nord has a reason to remain silent on this one. This is a part of their workaround in countries with heavy Internet restrictions. Providing a detailed explanation of how it works would not only put them at a competitive disadvantage, it would put them at risk of getting blocked
 
 
@@ -201,5 +202,11 @@ ota-internal.nvidia.com         ## automatic downloads
 ##   Music: Deezer TIDAL, Radioline
 ##   News and Weather: CBS News, Newsy, CNBC, The Weather Network, Accuweather
 metrics.core.cloud.vewd.com
+
+
+## mytools.management might be or might not be a malware. Added here for testing.
+## https://www.reddit.com/r/pihole/comments/bi0uuw/mytoolsmanagement/
+## https://support.adamnet.works/t/adam-one-smart-rules/1255
+mytools.management
 
 
