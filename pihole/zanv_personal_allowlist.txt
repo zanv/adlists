@@ -1,3 +1,15 @@
-## [250709][vz] blocked in https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt
+## Added from query log
+web.whatsapp.com
+static.whatsapp.net
+g.whatsapp.net
+dropbox.com
+
+## [250611] When blocked, prevent ebay links, from user's panel, to work
+monitor.ebay.com
+
+## [250708] "raw.githubusercontent.com" is blocked on the "https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt" blocklist
+raw.githubusercontent.com
+
+## [250709][vz] "www.youtube.com" is blocked on the "https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt" blocklist
 www.youtube.com
 youtube.com
