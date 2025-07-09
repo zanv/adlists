@@ -1,3 +1,2 @@
-@@||www.youtube.com	## [250709][vz] blocked in https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt
-
+@@||www.youtube.com^    ## [250709][vz] blocked in https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt
 
