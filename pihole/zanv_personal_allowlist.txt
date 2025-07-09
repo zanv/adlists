@@ -1,8 +1,8 @@
 ## Added from query log
 web.whatsapp.com
 static.whatsapp.net
-g.whatsapp.net
-dropbox.com
+# g.whatsapp.net
+# dropbox.com
 
 ## [250611] When blocked, prevent ebay links, from user's panel, to work
 monitor.ebay.com
