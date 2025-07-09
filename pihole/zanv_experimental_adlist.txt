@@ -205,8 +205,10 @@ metrics.core.cloud.vewd.com
 
 
 ## mytools.management might be or might not be a malware. Added here for testing.
+## mytools.management is used by the "adam:ONE® assist" extension, used to know the websites accessed/queried
 ## https://www.reddit.com/r/pihole/comments/bi0uuw/mytoolsmanagement/
 ## https://support.adamnet.works/t/adam-one-smart-rules/1255
+## https://support.adamnet.works/t/troubleshooting-mytools-management-services/583
 mytools.management
 
 
