@@ -2,7 +2,7 @@
 web.whatsapp.com
 static.whatsapp.net
 # g.whatsapp.net
-# dropbox.com
+
 
 ## [250611] When blocked, prevent ebay links, from user's panel, to work
 monitor.ebay.com
@@ -13,3 +13,6 @@ raw.githubusercontent.com
 ## [250709][vz] "www.youtube.com" is blocked on the "https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt" blocklist
 www.youtube.com
 youtube.com
+
+## [250711][vz] "www.dropbox.com" is blocked on the "https://codeberg.org/angrytux/gaming_without_spying/raw/branch/master/tracking-games-fqdn.txt" and "https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt" blocklist
+www.dropbox.com
