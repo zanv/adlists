@@ -63,6 +63,7 @@ ot.io.mi.com
 ott.io.mi.com
 www.xiaomi.net
 xiaomi.net
+us.find.api.micloud.xiaomi.net
 
 
 ## Domínios acessados pelo futemax.plus:
