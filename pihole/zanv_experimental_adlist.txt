@@ -61,6 +61,8 @@ dlg.io.mi.com
 ots.io.mi.com
 ot.io.mi.com
 ott.io.mi.com
+www.xiaomi.net
+xiaomi.net
 
 
 ## Domínios acessados pelo futemax.plus:
