@@ -65,6 +65,9 @@ www.xiaomi.net
 xiaomi.net
 us.find.api.micloud.xiaomi.net
 
+global.xiaomi.net
+fr.app.chat.global.xiaomi.net
+
 
 ## Domínios acessados pelo futemax.plus:
 #filters.adtidy.org
@@ -214,4 +217,12 @@ metrics.core.cloud.vewd.com
 ## https://support.adamnet.works/t/troubleshooting-mytools-management-services/583
 mytools.management
 
+
+## Weibo (Chinese microblogging (weibo) and social media platform)
+api.weibo.cn
+api.weibo.com
+service.weibo.com
+widget.weibo.com
+api.weibo.com
+api.weibo.cn
 
