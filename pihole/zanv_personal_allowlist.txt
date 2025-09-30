@@ -27,4 +27,6 @@ whatismyipaddress.com
 ## [250911][vz] "assets.reviews.io" is blocked on the "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails" blocklist (as "reviews.io" domain and sub domains)
 assets.reviews.io
 
+## [251001][vz] "mail-attachment.googleusercontent.com" is blocked on the "https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed" blocklist
+mail-attachment.googleusercontent.com
 
