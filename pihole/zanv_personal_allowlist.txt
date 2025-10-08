@@ -30,3 +30,6 @@ assets.reviews.io
 ## [251001][vz] "mail-attachment.googleusercontent.com" is blocked on the "https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed" blocklist
 mail-attachment.googleusercontent.com
 
+## [251008] [vz] "ieeecomputersociety.activehosted.com" is a subdomain blocked on the "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails" blocklist, that blocks the domain "activehosted.com". Prevents the download of "Edge Computing Magazine"
+ieeecomputersociety.activehosted.com
+
