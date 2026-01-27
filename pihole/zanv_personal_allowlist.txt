@@ -33,3 +33,26 @@ mail-attachment.googleusercontent.com
 ## [251008] [vz] "ieeecomputersociety.activehosted.com" is a subdomain blocked on the "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails" blocklist, that blocks the domain "activehosted.com". Prevents the download of "Edge Computing Magazine"
 ieeecomputersociety.activehosted.com
 
+## [260127] [vz] IPTV Servers
+5gott.one
+b1g.ooo
+b1g.us
+b1gchlogos.xyz
+business-cdn.me
+cdn-mx.me
+d4ktv.info
+eflue.me
+fun.ooo
+hi-cdn.me
+hi-max.me
+hi-ott.me
+hotglass.online
+kastv.icu
+pcommanderapi.top
+protection-cdn.vip
+sansat.cc
+trx-ott.com
+x86gfk.store
+xmnif78.online
+yobaba.site
+
