@@ -84,3 +84,6 @@ x86gfk.store
 xmnif78.online
 yobaba.site
 
+## [260218] [vz] Private DNS
+nextdns.io
+
