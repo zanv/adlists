@@ -1,6 +1,7 @@
-## Added from query log
+## [260220] Whatsapp domains: Added from query log
 web.whatsapp.com
 static.whatsapp.net
+api.whatsapp.com
 # g.whatsapp.net
 
 
