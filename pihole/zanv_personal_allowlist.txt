@@ -31,10 +31,10 @@ assets.reviews.io
 ## [251001][vz] "mail-attachment.googleusercontent.com" is blocked on the "https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed" blocklist
 mail-attachment.googleusercontent.com
 
-## [251008] [vz] "ieeecomputersociety.activehosted.com" is a subdomain blocked on the "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails" blocklist, that blocks the domain "activehosted.com". Prevents the download of "Edge Computing Magazine"
+## [251008][vz] "ieeecomputersociety.activehosted.com" is a subdomain blocked on the "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails" blocklist, that blocks the domain "activehosted.com". Prevents the download of "Edge Computing Magazine"
 ieeecomputersociety.activehosted.com
 
-## [260127] [vz] IPTV Servers
+## [260127][vz] IPTV Servers
 118967810952.d4ktv.info
 118960629829.4k-26com.com
 4k-26com.com
@@ -55,6 +55,7 @@ cf.eflue.me
 cf.hi-cdn.me
 cf.hi-max.me
 cf.hi-ott.me
+chan-news.com
 d4ktv.info
 dream4k.co
 eflue.me
@@ -80,11 +81,16 @@ sansat.cc
 smarters.live
 smarter8k.ru
 tivi-ott.net
+trendlla.xyz
 trx-ott.com
 x86gfk.store
 xmnif78.online
 yobaba.site
 
-## [260218] [vz] Private DNS
+## [260218][vz] Private and public DNS
 nextdns.io
+one.one.one.one
+
+## [260306][vz] VPN
+mullvad.net
 
