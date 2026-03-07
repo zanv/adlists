@@ -1,3 +1,15 @@
+## [260306] Garante acesso aos domínios pessoais
+zanusso.net.br
+zanusso.com.br
+underflow.com.br
+underflow.net.br
+
+## [260306] Garante acesso à Google Play Store
+play.google.com
+
+## [260306] Garante acesso a sites de pagamento
+skrill.com
+
 ## [260220] Whatsapp domains: Added from query log
 web.whatsapp.com
 static.whatsapp.net
