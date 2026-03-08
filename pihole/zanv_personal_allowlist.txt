@@ -17,7 +17,7 @@
 @@||web.whatsapp.com^
 @@||static.whatsapp.net^
 @@||api.whatsapp.com^
-@@||# g.whatsapp.net^
+## @@||g.whatsapp.net^
 
 
 ## [250611] When blocked, prevent ebay links, from user's panel, to work
@@ -119,4 +119,6 @@
 
 ## [260306][vz] VPN
 @@||mullvad.net^
+@@||nordvpn.com^
+@@||privateinternetaccess.com^
 
