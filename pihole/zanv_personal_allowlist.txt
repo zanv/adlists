@@ -79,7 +79,9 @@
 @@||cf.hi-cdn.me^
 @@||cf.hi-max.me^
 @@||cf.hi-ott.me^
+@@||cf.cheaplytv.com^
 @@||chan-news.com^
+@@||cheaplytv.com^
 @@||d4ktv.info^
 @@||dream4k.co^
 @@||eflue.me^
@@ -107,6 +109,9 @@
 @@||tivi-ott.net^
 @@||trendlla.xyz^
 @@||trx-ott.com^
+@@||tsclean.cc^
+@@||tvocean.cc^
+@@||vpn.tsclean.cc^
 @@||x86gfk.store^
 @@||xmnif78.online^
 @@||yobaba.site^
