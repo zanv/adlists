@@ -45,6 +45,10 @@ edgedl.me.gvt1.com      ## https://www.google.com/chrome/
 nearbysharing-pa.googleapis.com
 
 
+## Microsoft
+msftncsi.com  ## Microsoft Network Connectivity Status Indicator (NCSI): Part of what makes "network awareness" work in Windows. Detected on requests made by Formuler Z11 box
+
+
 ## xiaomi
 api.ad.xiaomi.com
 api.admob.xiaomi.com
