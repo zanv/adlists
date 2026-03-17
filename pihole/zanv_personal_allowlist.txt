@@ -123,7 +123,8 @@
 
 
 ## [260306][vz] VPN
-@@||mullvad.net^
-@@||nordvpn.com^
-@@||privateinternetaccess.com^
+##@@||mullvad.net^
+##@@||nordvpn.com^
+##@@||privateinternetaccess.com^
+##@@||windscribe.com^
 
