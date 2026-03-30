@@ -43,6 +43,7 @@ redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 peoplestackwebexperiments-pa.clients6.google.com
 edgedl.me.gvt1.com      ## https://www.google.com/chrome/
 nearbysharing-pa.googleapis.com
+mtalk.google.com        ## google messaging and calling platform, such as hangout
 
 
 ## Microsoft
