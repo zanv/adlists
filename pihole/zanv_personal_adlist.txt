@@ -1,6 +1,7 @@
 
 ## NordVPN(?)
 applytics.napps-1.com
+applytics.nordvpn.com   ## NordVPN, ironically a privacy tool, sends telemetry to applytics.nordvpn.com regularly.
 
 
 ## Amazon / Alexa:
@@ -97,10 +98,17 @@ variations.brave.com            ## Brave’s privacy-respecting alternative impl
 laptop-updates.brave.com        ## information on Brave’s referral program, sites reported as broken, and non-identifying usage statistics
 
 
+## Firefox Browser
+Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
+ads.mozilla.org
+incoming.telemetry.mozilla.org  ## Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
+
+
 ## roku
 tyler.logs.roku.com
 giga.logs.roku.com
 cooper.logs.roku.com
+
 
 ## twitch
 api.mixpanel.com
@@ -128,5 +136,9 @@ wsp.mgid.com
 event-tracker.mediaownerscloud.com
 api.wbd-sdp.io
 c43.1ka.com     ## XVideos
+
+
+## Phillips ## Philips Hue Bridge contacts diag.meethue.com on a precise ~2 minute interval. Clockwork.
+diag.meethue.com
 
 
