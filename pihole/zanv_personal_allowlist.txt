@@ -59,8 +59,9 @@
 
 
 ## [260127][vz] IPTV Servers
-@@||118967810952.d4ktv.info^
+@@||0099001.xyz^
 @@||118960629829.4k-26com.com^
+@@||118967810952.d4ktv.info^
 @@||4k-26com.com^
 @@||5gott.one^
 @@||admin-12k.org^
@@ -68,18 +69,23 @@
 @@||b1g.ooo^
 @@||b1g.us^
 @@||b1gchlogos.xyz^
-@@||business-cdn.me^
 @@||business-cdn-8k.ru^
+@@||business-cdn-8k.su^
+@@||business-cdn-8kpro.ru^
+@@||business-cdn.me^
+@@||cdn-4k.cloud^
 @@||cdn-akm.me^
 @@||cdn-mx.me^
 @@||cdngold.me^
-@@||cf.business-cdn.me^
 @@||cf.business-cdn-8k.ru^
+@@||cf.business-cdn-8k.su^
+@@||cf.business-cdn.me^
+@@||cf.cheaplytv.com^
 @@||cf.eflue.me^
 @@||cf.hi-cdn.me^
 @@||cf.hi-max.me^
 @@||cf.hi-ott.me^
-@@||cf.cheaplytv.com^
+@@||cf.player-mate3.me^
 @@||chan-news.com^
 @@||cheaplytv.com^
 @@||d4ktv.info^
@@ -101,20 +107,26 @@
 @@||one-ott.xyz^
 @@||own91693.cdngold.me^
 @@||pcommanderapi.top^
+@@||player-mate3.me^
+@@||pro.business-cdn-8kpro.ru^
 @@||pro.business-cdn.me^
 @@||protection-cdn.vip^
 @@||sansat.cc^
-@@||smarters.live^
 @@||smarter8k.ru^
+@@||smarter8k.su^
+@@||smarters.live^
+@@||stable.cdn-4k.cloud^
 @@||tivi-ott.net^
 @@||trendlla.xyz^
 @@||trx-ott.com^
 @@||tsclean.cc^
 @@||tvocean.cc^
+@@||ultracast-server.xyz^
 @@||vpn.tsclean.cc^
 @@||x86gfk.store^
 @@||xmnif78.online^
 @@||yobaba.site^
+@@||zeusxbg.top^
 
 
 ## [260218][vz] Private and public DNS
