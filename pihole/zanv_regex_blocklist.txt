@@ -1,0 +1,12 @@
+## Regex Blocklist
+## regular expressions that cover groups of subdomains with the same prefix/sufix 
+## [260403] Initial release
+
+
+## Google messager (hangouts)
+/alt[1-9][0-9]?-mtalk\.google\.com/
+
+## Block domains and subdomains related to Google AMP (Accelerated Mobile Pages)It identifies the term "amp" (optionally followed by "project")
+/^(.+[_.-])?amp(project)?\./
+
+
