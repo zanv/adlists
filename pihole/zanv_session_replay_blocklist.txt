@@ -1,41 +1,41 @@
 ## [vz][250518] Lista criada com a intenção de bloquear Session Replay scripts/sites
 ## exemplos de sites: FullStory, Hotjar, Yandex, Smartlook, ForeSee, QuantumMetric
 
-mc.yandex.ru
-fullstory.com
-d2oh4tlt9mrke9.cloudfront.net
-ws.sessioncam.com
-userreplay.net
-script.hotjar.com
-insights.hotjar.com
-clicktale.net
-smartlook.com
-decibelinsight.net
-quantummetric.com
-inspectlet.com
-mouseflow.com
-logrocket.com
-salemove.com
-d10lpsik1i8c69.cloudfront.net
-vwo.com
+||mc.yandex.ru^
+||fullstory.com^
+||d2oh4tlt9mrke9.cloudfront.net^
+||ws.sessioncam.com^
+||userreplay.net^
+||script.hotjar.com^
+||insights.hotjar.com^
+||clicktale.net^
+||smartlook.com^
+||decibelinsight.net^
+||quantummetric.com^
+||inspectlet.com^
+||mouseflow.com^
+||logrocket.com^
+||salemove.com^
+||d10lpsik1i8c69.cloudfront.net^
+||vwo.com^
 
 ## [vz][250519] talvez esses dominios devam ser movidos para a lista personal adlist
-sso.passport.yandex.ru
-dzen.ru
-suggest.sso.dzen.ru
-dzeninfra.ru
-avatars.dzeninfra.ru
-yastatic.net
+||sso.passport.yandex.ru^
+||dzen.ru^
+||suggest.sso.dzen.ru^
+||dzeninfra.ru^
+||avatars.dzeninfra.ru^
+||yastatic.net^
 ## --- continuação ---
-luckyorange.com
-sessioncam.com
-wp.com
-yandex.ru
-foresee.com
+||luckyorange.com^
+||sessioncam.com^
+||wp.com^
+||yandex.ru^
+||foresee.com^
 
-hoverowl.com
-seevolution.com
-getwisdom.io
-mousestats.com
-overheat.de
+||hoverowl.com^
+||seevolution.com^
+||getwisdom.io^
+||mousestats.com^
+||overheat.de^
 

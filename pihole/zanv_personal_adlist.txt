@@ -1,144 +1,143 @@
 
 ## NordVPN(?)
-applytics.napps-1.com
-applytics.nordvpn.com   ## NordVPN, ironically a privacy tool, sends telemetry to applytics.nordvpn.com regularly.
+||applytics.napps-1.com^^
+||applytics.nordvpn.com^   ## NordVPN, ironically a privacy tool, sends telemetry to applytics.nordvpn.com regularly.
 
 
 ## Amazon / Alexa:
-device-metrics-us.amazon.com
-kindle-time.amazon.com
-spectrum.s3.amazonaws.com
-ntp-g7g.amazon.com
-vsp-alexa-fe.amazon.com
-vsp-alexa-eu.amazon.com
-vsp-alexa-na.amazon.com
-avs-alexa-4-fe.amazon.com   ## Makes Amazon Echo stop working
-avs-alexa-4-eu.amazon.com   ## Makes Amazon Echo stop working
-avs-alexa-4-na.amazon.com   ## Makes Amazon Echo stop working
-avs-alexa-5-fe.amazon.com   ## Makes Amazon Echo stop working
-avs-alexa-5-eu.amazon.com   ## Makes Amazon Echo stop working
-avs-alexa-5-na.amazon.com   ## Makes Amazon Echo stop working
-avs-alexa-14-fe.amazon.com   ## Makes Amazon Echo stop working
-avs-alexa-14-eu.amazon.com   ## Makes Amazon Echo stop working
-avs-alexa-14-na.amazon.com   ## Makes Amazon Echo stop working
-alexa.fe.gateway.devices.a2z.com
-alexa.eu.gateway.devices.a2z.com
-alexa.na.gateway.devices.a2z.com
-default.fe.gateway.devices.a2z.com
-default.eu.gateway.devices.a2z.com
-default.na.gateway.devices.a2z.com
-alexa-14.fe.gateway.devices.a2z.com
-alexa-14.eu.gateway.devices.a2z.com
-alexa-14.na.gateway.devices.a2z.com
+||device-metrics-us.amazon.com^
+||kindle-time.amazon.com^
+||spectrum.s3.amazonaws.com^
+||ntp-g7g.amazon.com^
+||vsp-alexa-fe.amazon.com^
+||vsp-alexa-eu.amazon.com^
+||vsp-alexa-na.amazon.com^
+||avs-alexa-4-fe.amazon.com^    ## Makes Amazon Echo stop working
+||avs-alexa-4-eu.amazon.com^    ## Makes Amazon Echo stop working
+||avs-alexa-4-na.amazon.com^    ## Makes Amazon Echo stop working
+||avs-alexa-5-fe.amazon.com^    ## Makes Amazon Echo stop working
+||avs-alexa-5-eu.amazon.com^    ## Makes Amazon Echo stop working
+||avs-alexa-5-na.amazon.com^    ## Makes Amazon Echo stop working
+||avs-alexa-14-fe.amazon.com^   ## Makes Amazon Echo stop working
+||avs-alexa-14-eu.amazon.com^   ## Makes Amazon Echo stop working
+||avs-alexa-14-na.amazon.com^   ## Makes Amazon Echo stop working
+||alexa.fe.gateway.devices.a2z.com^
+||alexa.eu.gateway.devices.a2z.com^
+||alexa.na.gateway.devices.a2z.com^
+||default.fe.gateway.devices.a2z.com^
+||default.eu.gateway.devices.a2z.com^
+||default.na.gateway.devices.a2z.com^
+||alexa-14.fe.gateway.devices.a2z.com^
+||alexa-14.eu.gateway.devices.a2z.com^
+||alexa-14.na.gateway.devices.a2z.com^
 ## Echo dot uses SSL Port 443 for transfering voice information, so PiHole does not recognize this!
 ## Remember that Pi-hole is a DNS server, not a proxy. It does neither care nor know about which ports a user uses to connect to somewhere.
 
 
 ## AWS
-# Generally domains / URLS that contain Experiment* are used for tracking.
-redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+## Generally domains / URLS that contain Experiment* are used for tracking.
+||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 
 
 ## Google
-# This domain is non malicious. Required for Google Photos Face Grouping
-peoplestackwebexperiments-pa.clients6.google.com
-edgedl.me.gvt1.com      ## https://www.google.com/chrome/
-nearbysharing-pa.googleapis.com
-mtalk.google.com        ## google messaging and calling platform, such as "hangout"
-alt0-mtalk.google.com
-alt1-mtalk.google.com
-alt2-mtalk.google.com
-alt3-mtalk.google.com
-alt4-mtalk.google.com
-alt5-mtalk.google.com
-alt6-mtalk.google.com
-alt7-mtalk.google.com
-alt8-mtalk.google.com
-alt9-mtalk.google.com
+## This domain is non malicious. Required for Google Photos Face Grouping
+||peoplestackwebexperiments-pa.clients6.google.com^
+||edgedl.me.gvt1.com^      ## https://www.google.com/chrome/
+||nearbysharing-pa.googleapis.com^
+||mtalk.google.com^        ## google messaging and calling platform, such as "hangout"
+||alt0-mtalk.google.com^
+||alt1-mtalk.google.com^
+||alt2-mtalk.google.com^
+||alt3-mtalk.google.com^
+||alt4-mtalk.google.com^
+||alt5-mtalk.google.com^
+||alt6-mtalk.google.com^
+||alt7-mtalk.google.com^
+||alt8-mtalk.google.com^
+||alt9-mtalk.google.com^
 
 
 ## Microsoft
-msftncsi.com  ## Microsoft Network Connectivity Status Indicator (NCSI): Part of what makes "network awareness" work in Windows. Detected on requests made by Formuler Z11 box
+||msftncsi.com^  ## Microsoft Network Connectivity Status Indicator (NCSI): Part of what makes "network awareness" work in Windows. Detected on requests made by Formuler Z11 box
 
 
 ## xiaomi
-api.ad.xiaomi.com
-api.admob.xiaomi.com
-api.d.xiaomi.com
-a.stat.xiaomi.com
-tracking.miui.com
-cdn.ad.xiaomi.com
-data.mistat.xiaomi.com
-e.ad.xiaomi.com
-globalapi.ad.xiaomi.com
-new.api.ad.xiaomi.com
-sdkconfig.ad.xiaomi.com
-ssp.ad.xiaomi.com
-test.ad.xiaomi.com
-test.e.ad.xiaomi.com
-test.new.api.ad.xiaomi.com
-cc.sys.intl.xiaomi.com
-cc.sys.miui.com
-ccc.sys.miui.com
-ccc.sys.intl.xiaomi.com
-adv.sec.miui.com
-geofence.sys.miui.com
-abtest.mistat.xiaomi.com
-logupdate.avlyun.sec.miui.com
-mazu.sec.miui.com
-feedback.miui.com
-data.sec.miui.com
-data.mistat.intl.xiaomi.com
+||api.ad.xiaomi.com^
+||api.admob.xiaomi.com^
+||api.d.xiaomi.com^
+||a.stat.xiaomi.com^
+||tracking.miui.com^
+||cdn.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
+||e.ad.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||new.api.ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||ssp.ad.xiaomi.com^
+||test.ad.xiaomi.com^
+||test.e.ad.xiaomi.com^
+||test.new.api.ad.xiaomi.com^
+||cc.sys.intl.xiaomi.com^
+||cc.sys.miui.com^
+||ccc.sys.miui.com^
+||ccc.sys.intl.xiaomi.com^
+||adv.sec.miui.com^
+||geofence.sys.miui.com^
+||abtest.mistat.xiaomi.com^
+||logupdate.avlyun.sec.miui.com^
+||mazu.sec.miui.com^
+||feedback.miui.com^
+||data.sec.miui.com^
+||data.mistat.intl.xiaomi.com^
 
 
 ## Brave browser
-static1.brave.com               ## proxy requests to Google
-brave-core-ext.s3.brave.com     ## fetches 5 extensions and installs them
-variations.brave.com            ## Brave’s privacy-respecting alternative implementation of Google’s Finch service
-laptop-updates.brave.com        ## information on Brave’s referral program, sites reported as broken, and non-identifying usage statistics
+||static1.brave.com^               ## proxy requests to Google
+||brave-core-ext.s3.brave.com^     ## fetches 5 extensions and installs them
+||variations.brave.com^            ## Brave’s privacy-respecting alternative implementation of Google’s Finch service
+||laptop-updates.brave.com^        ## information on Brave’s referral program, sites reported as broken, and non-identifying usage statistics
 
 
 ## Firefox Browser
-Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
-ads.mozilla.org
-incoming.telemetry.mozilla.org  ## Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
+||Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
+||ads.mozilla.org^
+||incoming.telemetry.mozilla.org  ## Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
 
 
 ## roku
-tyler.logs.roku.com
-giga.logs.roku.com
-cooper.logs.roku.com
+||tyler.logs.roku.com^
+||giga.logs.roku.com^
+||cooper.logs.roku.com^
 
 
 ## twitch
-api.mixpanel.com
-spade.twitch.com
-pubads.g.doubleclick.net
-sb.scorecardresearch.com
+||api.mixpanel.com^
+||spade.twitch.com^
+||pubads.g.doubleclick.net^
+||sb.scorecardresearch.com^
 
 
 ## waze
-adsassets.waze.com
+||adsassets.waze.com^
 
 
 ## pandora tv
-ad.pandora.tv
-ads.pandora.tv.net
-stats.pandora.com
-adserver.pandora.com
+||ad.pandora.tv^
+||ads.pandora.tv.net^
+||stats.pandora.com^
+||adserver.pandora.com^
 
 
 ## MGID is a global advertising platform
-wsp.mgid.com
+||wsp.mgid.com^
 
 
 ## Outros
-event-tracker.mediaownerscloud.com
-api.wbd-sdp.io
-c43.1ka.com     ## XVideos
+||event-tracker.mediaownerscloud.com^
+||api.wbd-sdp.io^
+||c43.1ka.com^     ## XVideos
 
 
 ## Phillips ## Philips Hue Bridge contacts diag.meethue.com on a precise ~2 minute interval. Clockwork.
-diag.meethue.com
-
+||diag.meethue.com^
 

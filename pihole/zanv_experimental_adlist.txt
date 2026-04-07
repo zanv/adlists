@@ -1,202 +1,199 @@
-sponsor.ajay.app
 
-c4096256.ipg.web.cddbp.net
+||sponsor.ajay.app^
 
-fvp.ait.s4c.cymru
-fvp-ait-api.ss7.tv
-meta.api.stv.tv
-auth-ctv.digitaluk.co.uk
+||c4096256.ipg.web.cddbp.net^
+
+||fvp.ait.s4c.cymru^
+||fvp-ait-api.ss7.tv^
+||meta.api.stv.tv^
+||auth-ctv.digitaluk.co.uk^
 
 
 ## Netflix
-##occ-0-299-300.1.nflxso.net    ## prevents the download of some netflix thumbnails
-##cdn-0.nflximg.com             ## prevents the download of some netflix thumbnails
+##occ-0-299-300.1.nflxso.net^    ## prevents the download of some netflix thumbnails
+##cdn-0.nflximg.com^             ## prevents the download of some netflix thumbnails
 
 
 ## Vidaa Hub TV
-partner.vidaahub.com
-iot-voice-eu.vidaahub.com
+||partner.vidaahub.com^
+||iot-voice-eu.vidaahub.com^
 
 
 ## Aliexpress/Alibaba
-jm-msg-global.aliexpress.com
-us-ummt.alibaba.com
-iclientgw.alipay.com
+||jm-msg-global.aliexpress.com^
+||us-ummt.alibaba.com^
+||iclientgw.alipay.com^
 
 
 ## Google URLs
-locationhistory-pa.googleapis.com
-footprints-pa.googleapis.com
-taskassist-pa.googleapis.com
-peoplestack-pa.googleapis.com
-userlocation.googleapis.com             ## Prevents the ability to share your location if you want to
-geller-pa.googleapis.com                ## Needed for Google Assistant
-firebaseinstallations.googleapis.com    ## Breaks some Firebase based apps, needed for Googles Cloud messaging
-semanticlocation-pa.googleapis.com      ## Breake basic usage of google apps
-androidtvchannels-pa.googleapis.com     ## Promoted Channels on Android TV
-autodiscover.googleapis.com
-clientmetrics-pa.googleapis.com
-jnn-pa.googleapis.com                   ## consent management processor. Sites use it to store and manage user consents.
-ad-creatives-public.commondatastorage.googleapis.com
-nearbydevices-pa.googleapis.com
-chromesyncpasswords-pa.googleapis.com
-growth-pa.googleapis.com
-geomobileservices-pa.googleapis.com
+||locationhistory-pa.googleapis.com^
+||footprints-pa.googleapis.com^
+||taskassist-pa.googleapis.com^
+||peoplestack-pa.googleapis.com^
+||userlocation.googleapis.com^             ## Prevents the ability to share your location if you want to
+||geller-pa.googleapis.com^                ## Needed for Google Assistant
+||firebaseinstallations.googleapis.com^    ## Breaks some Firebase based apps, needed for Googles Cloud messaging
+||semanticlocation-pa.googleapis.com^      ## Breake basic usage of google apps
+||androidtvchannels-pa.googleapis.com^     ## Promoted Channels on Android TV
+||autodiscover.googleapis.com^
+||clientmetrics-pa.googleapis.com^
+||jnn-pa.googleapis.com^                   ## consent management processor. Sites use it to store and manage user consents.
+||ad-creatives-public.commondatastorage.googleapis.com^
+||nearbydevices-pa.googleapis.com^
+||chromesyncpasswords-pa.googleapis.com^
+||growth-pa.googleapis.com^
+||geomobileservices-pa.googleapis.com^
 
 
 ## Xiaomi
-us.galleryapi.micloud.xiaomi.net
-uk.galleryapi.micloud.xiaomi.net
-eu.galleryapi.micloud.xiaomi.net
-in.galleryapi.micloud.xiaomi.net
-g.galleryapi.micloud.xiaomi.net
-in.tv.global.mi.com
-i.mi.com
-cn.app.chat.xiaomi.net
-thm.market.intl.xiaomi.com
-dlg.io.mi.com
-ots.io.mi.com
-ot.io.mi.com
-ott.io.mi.com
-www.xiaomi.net
-xiaomi.net
-us.find.api.micloud.xiaomi.net
-global.xiaomi.net
-fr.app.chat.global.xiaomi.net
+||us.galleryapi.micloud.xiaomi.net^
+||uk.galleryapi.micloud.xiaomi.net^
+||eu.galleryapi.micloud.xiaomi.net^
+||in.galleryapi.micloud.xiaomi.net^
+||g.galleryapi.micloud.xiaomi.net^
+||in.tv.global.mi.com^
+||i.mi.com^
+||cn.app.chat.xiaomi.net^
+||thm.market.intl.xiaomi.com^
+||dlg.io.mi.com^
+||ots.io.mi.com^
+||ot.io.mi.com^
+||ott.io.mi.com^
+||www.xiaomi.net^
+||xiaomi.net^
+||us.find.api.micloud.xiaomi.net^
+||global.xiaomi.net^
+||fr.app.chat.global.xiaomi.net^
 
 
 ## Samsung
-samsung-gamelauncher.com
+||samsung-gamelauncher.com^
 
 
 ## Domínios acessados pelo futemax.plus:
-#filters.adtidy.org
-lajjmqeshj.com
-#curbengh.github.io
-#malware-filter.pages.dev
-#cdn.statically.io
-#secure.fanboy.co.nz
-#ublockorigin.github.io
-lajjmqeshj.com
-cdnimagesplus.embedmax.com
+||filters.adtidy.org^
+||lajjmqeshj.com^
+#||curbengh.github.io^
+#||malware-filter.pages.dev^
+#||cdn.statically.io^
+#||secure.fanboy.co.nz^
+#||ublockorigin.github.io^
+||lajjmqeshj.com^
+||cdnimagesplus.embedmax.com^
 
 
 ## Domínios utilizados pela NordVPN:
 ## "These requests are sent to well known domains in order to check if the network is restricted or not. It helps to determine certain issues in countries with heavy internet censorship or networks where VPN services are being blocked."
-applytics.boi9osyg1uwtyafn.com
-applytics.icpsuawn1zy5amys.com
-icpsuawn1zy5amys.com
-applytics.x9fnzrtl4x8pynsf.com
-zwyr157wwiu6eior.com
-applytics.zwyr157wwiu6eior.com      ## Nord has a reason to remain silent on this one. This is a part of their workaround in countries with heavy Internet restrictions. Providing a detailed explanation of how it works would not only put them at a competitive disadvantage, it would put them at risk of getting blocked
+||applytics.boi9osyg1uwtyafn.com^
+||applytics.icpsuawn1zy5amys.com^
+||icpsuawn1zy5amys.com^
+||applytics.x9fnzrtl4x8pynsf.com^
+||zwyr157wwiu6eior.com^
+||applytics.zwyr157wwiu6eior.com^      ## Nord has a reason to remain silent on this one. This is a part of their workaround in countries with heavy Internet restrictions. Providing a detailed explanation of how it works would not only put them at a competitive disadvantage, it would put them at risk of getting blocked
 
 
-#ente.dev
+##ente.dev
 ## EU servers
-conn-service-eu-01.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
-conn-service-eu-02.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
-conn-service-eu-03.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
-conn-service-eu-04.allawnos.com
-conn-service-eu-05.allawnos.com
-conn-service-eu-06.allawnos.com
-conn-service-eu-07.allawnos.com
-conn-service-eu-08.allawnos.com
-conn-service-eu-09.allawnos.com
+||conn-service-eu-01.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-eu-02.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-eu-03.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-eu-04.allawnos.com^
+||conn-service-eu-05.allawnos.com^
+||conn-service-eu-06.allawnos.com^
+||conn-service-eu-07.allawnos.com^
+||conn-service-eu-08.allawnos.com^
+||conn-service-eu-09.allawnos.com^
 ## US servers
-conn-service-us-01.allawnos.com
-conn-service-us-02.allawnos.com
-conn-service-us-03.allawnos.com
-conn-service-us-04.allawnos.com
-conn-service-us-05.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
-conn-service-us-06.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
-conn-service-us-07.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
-conn-service-us-08.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
-conn-service-us-09.allawnos.com     ## OPPO servers: supposedly accesses every time a new app is installed
-icosa-service-eu.allawnos.com       ## OPPO servers: supposedly accesses every time a new app is installed
-icosa-service-us.allawnos.com       ## OPPO servers: supposedly accesses every time a new app is installed
-#urlhaus.abuse.ch
-#phishing.army
-#pgl.yoyo.org
-#hostfiles.frogeye.fr
-#osint.digitalside.it
+||conn-service-us-01.allawnos.com^
+||conn-service-us-02.allawnos.com^
+||conn-service-us-03.allawnos.com^
+||conn-service-us-04.allawnos.com^
+||conn-service-us-05.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-us-06.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-us-07.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-us-08.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-us-09.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||icosa-service-eu.allawnos.com^       ## OPPO servers: supposedly accesses every time a new app is installed
+||icosa-service-us.allawnos.com^       ## OPPO servers: supposedly accesses every time a new app is installed
+#||urlhaus.abuse.ch^
+#||phishing.army^
+#||pgl.yoyo.org^
+#||hostfiles.frogeye.fr^
+#||osint.digitalside.it^
 
 
 ## WPS Office (previously KSOffice for the international market) checks and other annoyances during initialization
-jspluginstore.wps.cn
-pcfg.wps.cn
-plus.wps.cn
-qing.wps.cn
-qingcenter.wps.cn
-dw-online.ksosoft.com
-int.dpool.sina.com.cn
-learning.u.wpscdn.cn
-shuc-other.ksord.com
-# Added WPS Office domains after accessing the Skin Center selection interface
-ic.wps.cn
-skin.docer.wps.cn
-recom.docer.wps.cn
-cnt.wps.cn
-s1.vip.wpscdn.cn
-docer-ks3.wpscdn.cn
-uf-api6.ksord.com
-# More WPS Office domains, accessed by the settings page
-tj.psvr.wps.cn
-ds.cache.wpscdn.com         ## Check if breaks something
-bl.client.cache.wpscdn.cn   ## Check if breaks something
-docer.wps.cn
+||jspluginstore.wps.cn^
+||pcfg.wps.cn^
+||plus.wps.cn^
+||qing.wps.cn^
+||qingcenter.wps.cn^
+||dw-online.ksosoft.com^
+||int.dpool.sina.com.cn^
+||learning.u.wpscdn.cn^
+||shuc-other.ksord.com^
+## Added WPS Office domains after accessing the Skin Center selection interface
+||ic.wps.cn^
+||skin.docer.wps.cn^
+||recom.docer.wps.cn^
+||cnt.wps.cn^
+||s1.vip.wpscdn.cn^
+||docer-ks3.wpscdn.cn^
+||uf-api6.ksord.com^
+## More WPS Office domains, accessed by the settings page
+||tj.psvr.wps.cn^
+||ds.cache.wpscdn.com^         ## Check if breaks something
+||bl.client.cache.wpscdn.cn^   ## Check if breaks something
+||docer.wps.cn^
 
 
 ## Baidu and Baidu related
-baidu.com
-www.baidu.com
-sina.com.cn
-www.sina.com.cn
+||baidu.com^
+||www.baidu.com^
+||sina.com.cn^
+||www.sina.com.cn^
 
 
 ## Block dresslily (chinese online fashion retailer - Shenzhen, China)
 ## SammyDress and Rosegal, which share the same website registration from Beijing, China
-sammydressclothing.com
-www.sammydressclothing.com
-rosegal.com
-www.rosegal.com
-dresslily.com
-www.dresslily.com
-cart.dresslily.com
-login.dresslily.com
-order.dresslily.com
-user.dresslily.com
-gloimg.drlcdn.com
-uidesign.drlcdn.com
-des.drlcdn.com
-fr.dresslily.com
-css.drlcdn.com
-review.drlcdn.com
+||sammydressclothing.com^
+||rosegal.com^
+||dresslily.com^
+||cart.dresslily.com^
+||login.dresslily.com^
+||order.dresslily.com^
+||user.dresslily.com^
+||gloimg.drlcdn.com^
+||uidesign.drlcdn.com^
+||des.drlcdn.com^
+||fr.dresslily.com^
+||css.drlcdn.com^
+||review.drlcdn.com^
 
 
 ## Hisense TV
-vidaahub.com
-vidaa-base-auth-eu.vidaahub.com
-policy-jrnl-eu.vidaahub.com
-params-msg-eu.vidaahub.com
+||vidaahub.com^
+||vidaa-base-auth-eu.vidaahub.com^
+||policy-jrnl-eu.vidaahub.com^
+||params-msg-eu.vidaahub.com^
 
 
 ## Playstation domains (trackers, telemetry, ads)
-telemetry-console.api.playstation.com
-www.telemetry-console.api.playstation.com
-### [250501][UPDATE-00:03hr] O problema de conexão à rede PSN com Tekken 8 pode ser relacionada a restriçoes no firewall, VPN ou DNS (https://appuals.com/tekken-8-network-error/)
-smetrics.aem.playstation.com                    ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
-aem.playstation.com.ssl.d1.sc.omtrdc.net        ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
-telemetry-schema-app.rnps.dl.playstation.net    ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
+||telemetry-console.api.playstation.com^
+## [250501][UPDATE-00:03hr] O problema de conexão à rede PSN com Tekken 8 pode ser relacionada a restriçoes no firewall, VPN ou DNS (https://appuals.com/tekken-8-network-error/)
+||smetrics.aem.playstation.com^                    ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
+||aem.playstation.com.ssl.d1.sc.omtrdc.net^        ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
+||telemetry-schema-app.rnps.dl.playstation.net^    ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
 
 
-## Server related to different spam providers
-o-uk-1.flwc.cc      ## The registrar has a high % of spammers and fraud sites
+## Server related to different spam providers^
+||o-uk-1.flwc.cc^      ## The registrar has a high % of spammers and fraud sites
 
 
-## NVidia
-ota.nvidia.com                  ## automatic downloads
-ota-downloads.nvidia.com        ## automatic downloads
-ota-internal.nvidia.com         ## automatic downloads
+## NVidia^
+||ota.nvidia.com^                  ## automatic downloads
+||ota-downloads.nvidia.com^        ## automatic downloads
+||ota-internal.nvidia.com^         ## automatic downloads
 
 
 ## Vewd allows to watch content on additional movie and TV apps without having to download and install them
@@ -207,7 +204,7 @@ ota-internal.nvidia.com         ## automatic downloads
 ##   Kids: Kids News, Kidoodle TV, Toon Goggles
 ##   Music: Deezer TIDAL, Radioline
 ##   News and Weather: CBS News, Newsy, CNBC, The Weather Network, Accuweather
-metrics.core.cloud.vewd.com
+||metrics.core.cloud.vewd.com^
 
 
 ## mytools.management might be or might not be a malware. Added here for testing.
@@ -215,14 +212,14 @@ metrics.core.cloud.vewd.com
 ## https://www.reddit.com/r/pihole/comments/bi0uuw/mytoolsmanagement/
 ## https://support.adamnet.works/t/adam-one-smart-rules/1255
 ## https://support.adamnet.works/t/troubleshooting-mytools-management-services/583
-mytools.management
+||mytools.management^
 
 
 ## Weibo (Chinese microblogging (weibo) and social media platform)
-api.weibo.cn
-api.weibo.com
-service.weibo.com
-widget.weibo.com
-api.weibo.com
-api.weibo.cn
+||api.weibo.cn^
+||api.weibo.com^
+||service.weibo.com^
+||widget.weibo.com^
+||api.weibo.com^
+||api.weibo.cn^
 
