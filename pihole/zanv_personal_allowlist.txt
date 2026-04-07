@@ -9,6 +9,15 @@
 @@||play.google.com^
 
 
+## [260405] Apple
+@@||sf-api-token-service.itunes.apple.com^
+## Blocks the appstore functionality on Apple devices. Its a false positive.
+@@||is1-ssl.mzstatic.com^
+@@||amp-api.apps.apple.com^
+@@||amp-api-edge.apps.apple.com^
+@@||amp-api-search-edge.apps.apple.com^
+
+
 ## [260306] Garante acesso a sites de pagamento
 @@||skrill.com^
 

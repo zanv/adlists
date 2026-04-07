@@ -1,9 +1,6 @@
-epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
 sponsor.ajay.app
 
-
 c4096256.ipg.web.cddbp.net
-
 
 fvp.ait.s4c.cymru
 fvp-ait-api.ss7.tv
@@ -64,9 +61,12 @@ ott.io.mi.com
 www.xiaomi.net
 xiaomi.net
 us.find.api.micloud.xiaomi.net
-
 global.xiaomi.net
 fr.app.chat.global.xiaomi.net
+
+
+## Samsung
+samsung-gamelauncher.com
 
 
 ## Domínios acessados pelo futemax.plus:
