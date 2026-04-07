@@ -32,7 +32,6 @@
 ||wp.com^
 ||yandex.ru^
 ||foresee.com^
-
 ||hoverowl.com^
 ||seevolution.com^
 ||getwisdom.io^

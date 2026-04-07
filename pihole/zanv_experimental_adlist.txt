@@ -10,8 +10,8 @@
 
 
 ## Netflix
-##occ-0-299-300.1.nflxso.net^    ## prevents the download of some netflix thumbnails
-##cdn-0.nflximg.com^             ## prevents the download of some netflix thumbnails
+#||occ-0-299-300.1.nflxso.net^
+#||cdn-0.nflximg.com^
 
 
 ## Vidaa Hub TV
@@ -30,14 +30,14 @@
 ||footprints-pa.googleapis.com^
 ||taskassist-pa.googleapis.com^
 ||peoplestack-pa.googleapis.com^
-||userlocation.googleapis.com^             ## Prevents the ability to share your location if you want to
-||geller-pa.googleapis.com^                ## Needed for Google Assistant
-||firebaseinstallations.googleapis.com^    ## Breaks some Firebase based apps, needed for Googles Cloud messaging
-||semanticlocation-pa.googleapis.com^      ## Breake basic usage of google apps
-||androidtvchannels-pa.googleapis.com^     ## Promoted Channels on Android TV
+||userlocation.googleapis.com^
+||geller-pa.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||semanticlocation-pa.googleapis.com^
+||androidtvchannels-pa.googleapis.com^
 ||autodiscover.googleapis.com^
 ||clientmetrics-pa.googleapis.com^
-||jnn-pa.googleapis.com^                   ## consent management processor. Sites use it to store and manage user consents.
+||jnn-pa.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||nearbydevices-pa.googleapis.com^
 ||chromesyncpasswords-pa.googleapis.com^
@@ -89,14 +89,14 @@
 ||icpsuawn1zy5amys.com^
 ||applytics.x9fnzrtl4x8pynsf.com^
 ||zwyr157wwiu6eior.com^
-||applytics.zwyr157wwiu6eior.com^      ## Nord has a reason to remain silent on this one. This is a part of their workaround in countries with heavy Internet restrictions. Providing a detailed explanation of how it works would not only put them at a competitive disadvantage, it would put them at risk of getting blocked
+||applytics.zwyr157wwiu6eior.com^
 
 
 ##ente.dev
 ## EU servers
-||conn-service-eu-01.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
-||conn-service-eu-02.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
-||conn-service-eu-03.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-eu-01.allawnos.com^
+||conn-service-eu-02.allawnos.com^
+||conn-service-eu-03.allawnos.com^
 ||conn-service-eu-04.allawnos.com^
 ||conn-service-eu-05.allawnos.com^
 ||conn-service-eu-06.allawnos.com^
@@ -108,13 +108,13 @@
 ||conn-service-us-02.allawnos.com^
 ||conn-service-us-03.allawnos.com^
 ||conn-service-us-04.allawnos.com^
-||conn-service-us-05.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
-||conn-service-us-06.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
-||conn-service-us-07.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
-||conn-service-us-08.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
-||conn-service-us-09.allawnos.com^     ## OPPO servers: supposedly accesses every time a new app is installed
-||icosa-service-eu.allawnos.com^       ## OPPO servers: supposedly accesses every time a new app is installed
-||icosa-service-us.allawnos.com^       ## OPPO servers: supposedly accesses every time a new app is installed
+||conn-service-us-05.allawnos.com^
+||conn-service-us-06.allawnos.com^
+||conn-service-us-07.allawnos.com^
+||conn-service-us-08.allawnos.com^
+||conn-service-us-09.allawnos.com^
+||icosa-service-eu.allawnos.com^
+||icosa-service-us.allawnos.com^
 #||urlhaus.abuse.ch^
 #||phishing.army^
 #||pgl.yoyo.org^
@@ -142,8 +142,8 @@
 ||uf-api6.ksord.com^
 ## More WPS Office domains, accessed by the settings page
 ||tj.psvr.wps.cn^
-||ds.cache.wpscdn.com^         ## Check if breaks something
-||bl.client.cache.wpscdn.cn^   ## Check if breaks something
+||ds.cache.wpscdn.com^
+||bl.client.cache.wpscdn.cn^
 ||docer.wps.cn^
 
 
@@ -181,19 +181,19 @@
 ## Playstation domains (trackers, telemetry, ads)
 ||telemetry-console.api.playstation.com^
 ## [250501][UPDATE-00:03hr] O problema de conexão à rede PSN com Tekken 8 pode ser relacionada a restriçoes no firewall, VPN ou DNS (https://appuals.com/tekken-8-network-error/)
-||smetrics.aem.playstation.com^                    ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
-||aem.playstation.com.ssl.d1.sc.omtrdc.net^        ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
-||telemetry-schema-app.rnps.dl.playstation.net^    ## [250430] investigar se bloqueia o acesso à Playstation Network (PSN) com Tekken 8: [error code C-00001-00803-2/] ou se alterar o DNS para 1.1.1.1 resolve (https://www.reddit.com/r/Tekken/comments/17c8i8i/failed_to_connect_to_the_network_online_mode_is/)
+||smetrics.aem.playstation.com^
+||aem.playstation.com.ssl.d1.sc.omtrdc.net^
+||telemetry-schema-app.rnps.dl.playstation.net^
 
 
 ## Server related to different spam providers^
-||o-uk-1.flwc.cc^      ## The registrar has a high % of spammers and fraud sites
+||o-uk-1.flwc.cc^
 
 
 ## NVidia^
-||ota.nvidia.com^                  ## automatic downloads
-||ota-downloads.nvidia.com^        ## automatic downloads
-||ota-internal.nvidia.com^         ## automatic downloads
+||ota.nvidia.com^
+||ota-downloads.nvidia.com^
+||ota-internal.nvidia.com^
 
 
 ## Vewd allows to watch content on additional movie and TV apps without having to download and install them

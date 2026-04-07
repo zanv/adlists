@@ -1,7 +1,7 @@
 
 ## NordVPN(?)
-||applytics.napps-1.com^^
-||applytics.nordvpn.com^   ## NordVPN, ironically a privacy tool, sends telemetry to applytics.nordvpn.com regularly.
+||applytics.napps-1.com^
+||applytics.nordvpn.com^
 
 
 ## Amazon / Alexa:
@@ -12,15 +12,15 @@
 ||vsp-alexa-fe.amazon.com^
 ||vsp-alexa-eu.amazon.com^
 ||vsp-alexa-na.amazon.com^
-||avs-alexa-4-fe.amazon.com^    ## Makes Amazon Echo stop working
-||avs-alexa-4-eu.amazon.com^    ## Makes Amazon Echo stop working
-||avs-alexa-4-na.amazon.com^    ## Makes Amazon Echo stop working
-||avs-alexa-5-fe.amazon.com^    ## Makes Amazon Echo stop working
-||avs-alexa-5-eu.amazon.com^    ## Makes Amazon Echo stop working
-||avs-alexa-5-na.amazon.com^    ## Makes Amazon Echo stop working
-||avs-alexa-14-fe.amazon.com^   ## Makes Amazon Echo stop working
-||avs-alexa-14-eu.amazon.com^   ## Makes Amazon Echo stop working
-||avs-alexa-14-na.amazon.com^   ## Makes Amazon Echo stop working
+||avs-alexa-4-fe.amazon.com^
+||avs-alexa-4-eu.amazon.com^
+||avs-alexa-4-na.amazon.com^
+||avs-alexa-5-fe.amazon.com^
+||avs-alexa-5-eu.amazon.com^
+||avs-alexa-5-na.amazon.com^
+||avs-alexa-14-fe.amazon.com^
+||avs-alexa-14-eu.amazon.com^
+||avs-alexa-14-na.amazon.com^
 ||alexa.fe.gateway.devices.a2z.com^
 ||alexa.eu.gateway.devices.a2z.com^
 ||alexa.na.gateway.devices.a2z.com^
@@ -42,9 +42,9 @@
 ## Google
 ## This domain is non malicious. Required for Google Photos Face Grouping
 ||peoplestackwebexperiments-pa.clients6.google.com^
-||edgedl.me.gvt1.com^      ## https://www.google.com/chrome/
+||edgedl.me.gvt1.com^
 ||nearbysharing-pa.googleapis.com^
-||mtalk.google.com^        ## google messaging and calling platform, such as "hangout"
+||mtalk.google.com^
 ||alt0-mtalk.google.com^
 ||alt1-mtalk.google.com^
 ||alt2-mtalk.google.com^
@@ -58,7 +58,8 @@
 
 
 ## Microsoft
-||msftncsi.com^  ## Microsoft Network Connectivity Status Indicator (NCSI): Part of what makes "network awareness" work in Windows. Detected on requests made by Formuler Z11 box
+## Microsoft Network Connectivity Status Indicator (NCSI): Part of what makes "network awareness" work in Windows. Detected on requests made by Formuler Z11 box
+||msftncsi.com^
 
 
 ## xiaomi
@@ -92,16 +93,16 @@
 
 
 ## Brave browser
-||static1.brave.com^               ## proxy requests to Google
-||brave-core-ext.s3.brave.com^     ## fetches 5 extensions and installs them
-||variations.brave.com^            ## Brave’s privacy-respecting alternative implementation of Google’s Finch service
-||laptop-updates.brave.com^        ## information on Brave’s referral program, sites reported as broken, and non-identifying usage statistics
+||static1.brave.com^
+||brave-core-ext.s3.brave.com^
+||variations.brave.com^
+||laptop-updates.brave.com^
 
 
 ## Firefox Browser
-||Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
+## Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
 ||ads.mozilla.org^
-||incoming.telemetry.mozilla.org  ## Mozilla Firefox phones home to incoming.telemetry.mozilla.org and ads.mozilla.org despite having telemetry "disabled" in settings.
+||incoming.telemetry.mozilla.org
 
 
 ## roku
@@ -135,9 +136,10 @@
 ## Outros
 ||event-tracker.mediaownerscloud.com^
 ||api.wbd-sdp.io^
-||c43.1ka.com^     ## XVideos
+||c43.1ka.com^
 
 
-## Phillips ## Philips Hue Bridge contacts diag.meethue.com on a precise ~2 minute interval. Clockwork.
+## Phillips
+## Philips Hue Bridge contacts diag.meethue.com on a precise ~2 minute interval. Clockwork.
 ||diag.meethue.com^
 
