@@ -190,12 +190,12 @@
 ||telemetry-schema-app.rnps.dl.playstation.net^
 
 
-## Server related to different spam providers^
+## Server related to different spam providers
 ## video-ads facebook
 ||o-uk-1.flwc.cc^
 
 
-## NVidia^
+## NVidia
 ||ota.nvidia.com^
 ||ota-downloads.nvidia.com^
 ||ota-internal.nvidia.com^
