@@ -9,6 +9,10 @@
 ||auth-ctv.digitaluk.co.uk^
 
 
+## Meta (Facebook, Whatsapp, Instagram, etc)
+||b-api.facebook.com^
+
+
 ## Netflix
 #||occ-0-299-300.1.nflxso.net^
 #||cdn-0.nflximg.com^
@@ -187,6 +191,7 @@
 
 
 ## Server related to different spam providers^
+## video-ads facebook
 ||o-uk-1.flwc.cc^
 
 
