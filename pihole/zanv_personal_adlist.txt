@@ -59,7 +59,11 @@
 
 ## Microsoft
 ## Microsoft Network Connectivity Status Indicator (NCSI): Part of what makes "network awareness" work in Windows. Detected on requests made by Formuler Z11 box
-||msftncsi.com^
+||msftncsi.com^$important
+
+
+## Doubleclick
+||doubleclick.net^$important
 
 
 ## xiaomi
