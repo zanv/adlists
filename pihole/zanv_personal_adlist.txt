@@ -9,6 +9,9 @@
 ||kindle-time.amazon.com^
 ||spectrum.s3.amazonaws.com^
 ||ntp-g7g.amazon.com^
+||alexa.amazon.com^
+||apl-alexa.com^
+##||api.amazon.com^
 ||vsp-alexa-fe.amazon.com^
 ||vsp-alexa-eu.amazon.com^
 ||vsp-alexa-na.amazon.com^
@@ -39,10 +42,11 @@
 ||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 
 
-## Google
+## Google / Google Assistant
 ## This domain is non malicious. Required for Google Photos Face Grouping
 ||peoplestackwebexperiments-pa.clients6.google.com^
 ||edgedl.me.gvt1.com^
+||assistant.google.com^
 ||nearbysharing-pa.googleapis.com^
 ||mtalk.google.com^
 ||alt0-mtalk.google.com^
