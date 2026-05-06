@@ -104,6 +104,7 @@
 @@||cheaplytv.com^
 @@||d4ktv.info^
 @@||dream4k.co^
+@@||drmtv.org^
 @@||eflue.me^
 @@||fun.ooo^
 @@||gave16389.cdn-akm.me^
@@ -111,6 +112,7 @@
 @@||hi-cdn.me^
 @@||hi-max.me^
 @@||hi-ott.me^
+@@||hibanet.online^
 @@||hotglass.online^
 @@||kastv.cfd^
 @@||kastv.icu^
@@ -120,6 +122,7 @@
 @@||line.one-ott.xyz^
 @@||line.tivi-ott.net^
 @@||line.trx-ott.com^
+@@||lineiptv-4kvip.cc^
 @@||lowest82754.cdn-mx.me^
 @@||one-ott.xyz^
 @@||own91693.cdngold.me^
@@ -129,6 +132,7 @@
 @@||player4k.cc^
 @@||plexe.cc^
 @@||prava.cc^
+@@||premium-ott4k.xyz^
 @@||primehd.cc^
 @@||pro.003391.xyz^
 @@||pro.business-cdn-8kpro.ru^
@@ -161,7 +165,6 @@
 @@||xmnif78.online^
 @@||yobaba.site^
 @@||zeusxbg.top^
-
 
 
 ## [260218][vz] Private and public DNS
