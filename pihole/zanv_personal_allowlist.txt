@@ -197,3 +197,6 @@
 ##@@||privateinternetaccess.com^
 ##@@||windscribe.com^
 
+## [260601][vz] Buscas em sites de lojas
+ksearchnet.com
+
