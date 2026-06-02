@@ -82,6 +82,7 @@
 @@||b1g.ooo^
 @@||b1g.us^
 @@||b1gchlogos.xyz^
+@@||beetx.cc^
 @@||business-cdn-8k.ru^
 @@||business-cdn-8k.su^
 @@||business-cdn-8kpro.ru^
@@ -198,5 +199,5 @@
 ##@@||windscribe.com^
 
 ## [260601][vz] Buscas em sites de lojas
-ksearchnet.com
+@@||ksearchnet.com^
 
