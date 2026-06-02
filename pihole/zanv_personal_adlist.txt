@@ -152,6 +152,10 @@
 ||diag.meethue.com^
 
 
+## Ubiquiti/Unifi domains to block (telemetry, crash reports, etc)
+||crash-report-service.svc.ui.com^
+
+
 ## Lista de domínios BR (ads, tracking, telemetria e push notifications)
 ## Baseado na lista "Pi-hole Blocklist Brasil" (https://raw.githubusercontent.com/kevinaugusto0/pihole-blocklist-brasil/main/blocklist.txt)
 ## --- Ad networks brasileiras ---
