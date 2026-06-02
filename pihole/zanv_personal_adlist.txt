@@ -154,6 +154,7 @@
 
 ## Ubiquiti/Unifi domains to block (telemetry, crash reports, etc)
 ||crash-report-service.svc.ui.com^
+##||fprint-ml-poc.dev.svc.ui.com^
 
 
 ## Lista de domínios BR (ads, tracking, telemetria e push notifications)
