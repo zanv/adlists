@@ -5,6 +5,9 @@
 @@||underflow.net.br^
 
 
+## [260604] Official, legitimate domains owned by Google
+## [260604] Allow access to Google downloads and updates (Chrome, Chromium, vivaldi, dictionaries, etc.)
+@@||redirector.gvt1.com^
 ## [260306] Garante acesso à Google Play Store
 @@||play.google.com^
 
