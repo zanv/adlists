@@ -10,4 +10,6 @@
 ## Block domains and subdomains related to Google AMP (Accelerated Mobile Pages)It identifies the term "amp" (optionally followed by "project")
 /^(.+[_.-])?amp(project)?\./
 
+## Block all domains with "analytics"
+/^analytics?[-.]/
 
