@@ -102,7 +102,7 @@
 
 ## Brave browser
 ||static1.brave.com^
-||brave-core-ext.s3.brave.com^
+##||brave-core-ext.s3.brave.com^
 ||variations.brave.com^
 ||laptop-updates.brave.com^
 
