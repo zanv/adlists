@@ -196,9 +196,9 @@
 
 
 ## NVidia
-||ota.nvidia.com^
-||ota-downloads.nvidia.com^
-||ota-internal.nvidia.com^
+##||ota.nvidia.com^
+##||ota-downloads.nvidia.com^
+##||ota-internal.nvidia.com^
 
 
 ## Vewd allows to watch content on additional movie and TV apps without having to download and install them
