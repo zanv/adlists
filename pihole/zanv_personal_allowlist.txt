@@ -70,6 +70,10 @@
 @@||ieeecomputersociety.activehosted.com^
 
 
+## [260615][vz] Blocking "cfmediaview.com" prevents the download of "Microwave Journal"
+@@||cfmediaview.com^
+
+
 ## [260127][vz] IPTV Servers
 @@||0099001.xyz^
 @@||118960629829.4k-26com.com^
