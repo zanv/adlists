@@ -36,6 +36,10 @@
 @@||monitor.ebay.com^
 
 
+## [260617][vz] Allow nvidia update
+@@||ota.nvidia.com^
+
+
 ## [250708] "raw.githubusercontent.com" is blocked on the "https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt" blocklist
 @@||raw.githubusercontent.com^
 
