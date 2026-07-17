@@ -209,6 +209,11 @@
 ##@@||privateinternetaccess.com^
 ##@@||windscribe.com^
 
+
 ## [260601][vz] Buscas em sites de lojas
 @@||ksearchnet.com^
+
+
+## [260717][vz] DHL tracking, used primarily for their On Demand Delivery (ODD) platform
+@@||del.dhl.com^
 
