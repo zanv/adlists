@@ -21,6 +21,10 @@
 @@||amp-api-search-edge.apps.apple.com^
 
 
+## [260723] Allow access to Playstation Store
+@@||dl.playstation.net^
+
+
 ## [260306] Garante acesso a sites de pagamento
 @@||skrill.com^
 
