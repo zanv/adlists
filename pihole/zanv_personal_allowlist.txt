@@ -55,6 +55,8 @@
 
 ## [250711][vz] "www.dropbox.com" is blocked on the "https://codeberg.org/angrytux/gaming_without_spying/raw/branch/master/tracking-games-fqdn.txt" and "https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt" blocklist
 @@||www.dropbox.com^
+@@||api.dropbox.com^
+@@||d.dropbox.com^
 
 
 ## [250714][vz] "www.discord.com" is blocked on the "https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt" blocklist
